@@ -1,0 +1,1 @@
+Approved. Clean diff, passing tests, and the calm look of code that already knows how this ends.
